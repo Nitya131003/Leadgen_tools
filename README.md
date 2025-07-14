@@ -63,5 +63,4 @@ This tool currently uses dummy data for demonstration. Replace the scraping logi
 
 ---
 
-**Author:** Nitya Jain  
-**License:** MIT
+**Author:** Nitya Jain 
